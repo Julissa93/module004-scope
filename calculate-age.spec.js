@@ -13,6 +13,14 @@ describe('yearsUntilRetirement', () =>  {
 
 })
 
+describe('problem3', () => {
+
+    it('returns the number', () => {
+        let returnedValue = problem3();
+        expect(returnedValue).toEqual(5);
+    })
+})
+
 describe('test', () => {
 
     it('returns a number', () => {
