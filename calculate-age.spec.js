@@ -15,7 +15,7 @@ describe('yearsUntilRetirement', () =>  {
 
 describe('problem3', () => {
 
-    it('returns the number', () => {
+    it('returns the number 5', () => {
         let returnedValue = problem3();
         expect(returnedValue).toEqual(5);
     })
