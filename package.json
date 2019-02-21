@@ -1,0 +1,14 @@
+{
+  "name": "module004-scope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testem"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testem": "^2.14.0"
+  }
+}
