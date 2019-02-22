@@ -58,9 +58,8 @@ function third() {
 }
 
 //Exercise #5
-//This problem doesn't contain test specs, 
-//but think about what this function would log to the console for a few minutes! :) 
-//to test it, run node index.js in your console.
+//This problem doesn't contain test specs.
+
 let txt = 'outside';
 function showTxt(){
     console.log(txt);
