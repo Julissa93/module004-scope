@@ -22,7 +22,13 @@ The objective of this lesson is:
 
 ## In-class
 
-### Instructor Demo
+### Instructor Demo / Solution Videos
+- [Scope Fun](https://youtu.be/0HcBrJJc_BA)
+- [Fullstack HQ](https://www.youtube.com/watch?v=uBkTlvRa-OY)
+- [Incremental Change](https://www.youtube.com/watch?v=pCzbuYp9Rjg)
+- [Sum Things Wrong](https://www.youtube.com/watch?v=stgTBv0KIEw)
+- [Sniper Scope](https://www.youtube.com/watch?v=RlBhEr-0yG4)
+- [Scope Koans](https://www.youtube.com/watch?v=-iIkTVAIL_0)
 
 
 ### Tutorial
