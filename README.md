@@ -5,7 +5,7 @@
 To master the JavaScript language, students must have a deep understanding of how scope works beneath the hood.
 
 ## Objective
-The objective of this lesson is: 
+- The objective of this lesson is: 
     - 1. To understand what scope is
     - 2. Learn the different types of scope
     - 3. To master scope best practices.
