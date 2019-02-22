@@ -1,8 +1,8 @@
 # JS: Functions, Scope
 
 
-## Needs Statement
-To master the JavaScript language, students must have a deep understanding of how scope works beneath the hood.
+## Overview
+To master the JavaScript language, students must have a deep understanding of how scope works underneath the hood.
 
 ## Objective
 - The objective of this lesson is: 
